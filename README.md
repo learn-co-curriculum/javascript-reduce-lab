@@ -37,6 +37,7 @@ For example, say we have these two lines:
 const lines = [
   'Who are you talking to right now?',
   'Who is it you think you see?',
+  'Do you know how much I make a year?',
 ];
 ```
 
